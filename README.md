@@ -30,6 +30,8 @@ I will also upload images of the projects and maybe some of the artwork I have m
 - [JavaScript exercises](https://github.com/aliisaro/WEEK7WednesdayPairProgramming/tree/task5)
   - These exercises were made in pairs, with my fellow student. They are simple JavaScript exercises for practicing the usage of api servers.
 
+- In directory [examples] there is a png collection of simple user interface designs made with JavaScript. 
+
 ### React 
 
 - [React exercise 1](https://github.com/mangomansikka/firstreact1)
