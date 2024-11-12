@@ -1,0 +1,43 @@
+# Portfolio
+
+****
+
+This is a portfolio for both school and hobby related projects.
+
+****
+
+## Description
+
+****
+
+An in-depth paragraph about your project and overview of use.
+
+****
+## Links to my projects
+### JavaScript
+* [HTML application](https://github.com/maisajulianna/web7/tree/2.0)
+This project was made with the power of three programmers: me and my fellow students. It is a fullstack HTML application,
+that uses JavaScript, React, Node.js and MongoDB. It was made for a school project and unfortunately, there wasn't enough time to finish it.
+
+* [JavaScript exercises](https://github.com/aliisaro/WEEK7WednesdayPairProgramming/tree/task5)
+These exercises were made in pairs, with my fellow student. They are simple JavaScript exercises for practicing the usage of api servers.
+
+### React excerises
+* [React exercise 1](https://github.com/mangomansikka/firstreact1)
+* [React exercise 2](https://github.com/mangomansikka/firstreact2)
+* [React exercise 3](https://github.com/mangomansikka/firstreact3)
+* [React exercise 4](https://github.com/mangomansikka/secondreact1)
+* [React exercise 5](https://github.com/mangomansikka/secondreact2)
+These exercises were made for practicing React. They are simple exercises that were made for a school project.
+
+### Java exercises
+
+* [Design patterns](https://github.com/mangomansikka/Suunnittelumallit24S)
+This project was made for practicing design patterns in Java. It was made for a school project.
+It consists simple backend programs that use different design patterns.
+
+* [Fuel consumption](https://github.com/mangomansikka/FuelConsumption)
+This is a simple fullstack Java application that calculates fuel consumption. It was made for a school project.
+
+* [Currency converter](https://github.com/mangomansikka/CurrencyConverter/tree/main/src/main)
+This is a simple fullstack Java application that converts currency. It was made for a school project.
