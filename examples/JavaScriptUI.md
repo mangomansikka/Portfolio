@@ -4,4 +4,4 @@
 
 ![Our services page](/images/OurServices.png)
 
-![Contact us page](/images/ContactUs.png)
+![Contact us page](/images/Registration.png)
