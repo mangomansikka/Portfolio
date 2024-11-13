@@ -1,7 +1,9 @@
 <h3>User interface designs using JavaScript</h3>
 
-![About us page](/images/AboutUs.png)
+****
 
-![Our services page](/images/OurServices.png)
+![About us page](/images/UIdesign/AboutUs.png)
 
-![Contact us page](/images/Registration.png)
+![Our services page](/images/UIdesign/OurServices.png)
+
+![Contact us page](/images/UIdesign/Registration.png)
