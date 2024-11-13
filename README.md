@@ -57,3 +57,4 @@ I will also upload images of the projects and maybe some of the artwork I have m
 - In directory examples there is a collection of my artwork.
 - MyAnimations.md contains a collection of animations
 - BadgesIcons.md contains a collection of badges and icons
+- MyArtworks.md contains a collection of other artwork
