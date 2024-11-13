@@ -54,5 +54,6 @@ I will also upload images of the projects and maybe some of the artwork I have m
   - This is a simple fullstack Java application that converts currency. It was made for a school project.
 
 ### Artwork
-- In directory [examples] there is an animation that I have made
-- More artwork will be uploaded in the future
+- In directory examples there is a collection of my artwork.
+- MyAnimations.md contains a collection of animations
+- BadgesIcons.md contains a collection of badges and icons
