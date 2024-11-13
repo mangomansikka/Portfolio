@@ -52,3 +52,7 @@ I will also upload images of the projects and maybe some of the artwork I have m
 
 - [Currency converter](https://github.com/mangomansikka/CurrencyConverter/tree/main/src/main)
   - This is a simple fullstack Java application that converts currency. It was made for a school project.
+
+### Artwork
+- In directory [examples] there is an animation that I have made
+- More artwork will be uploaded in the future
