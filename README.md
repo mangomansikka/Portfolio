@@ -52,6 +52,16 @@ I will also upload images of the projects and maybe some of the artwork I have m
 
 - [Currency converter](https://github.com/mangomansikka/CurrencyConverter/tree/main/src/main)
   - This is a simple fullstack Java application that converts currency. It was made for a school project.
+ 
+### Kotlin
+- [Basics](https://github.com/mangomansikka/KotlinSpring25/tree/main/basics/src/main/kotlin)
+  - A collection of very simple practices I have done with Kotlin.
+- [Study register](https://github.com/mangomansikka/KotlinSpring25/tree/main/StudyRegister/src/main/kotlin)
+  - A simple back-end study register with tests 
+
+ ### Swift
+ - [Swift practices](https://github.com/mangomansikka/SwiftPractices)
+  - This is a collection of practices I have done with Swift
 
 ### Artwork
 - In directory examples there is a collection of my artwork.
