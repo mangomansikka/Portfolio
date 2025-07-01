@@ -2,4 +2,4 @@
 
 ****
 
-![Animation](/images/MyArt/Animations/CuteAnimals.gif)
+![Animation](/examples/images/MyArt/Animations/CuteAnimals.gif)

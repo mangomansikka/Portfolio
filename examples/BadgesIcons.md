@@ -2,8 +2,8 @@
 
 ****
 
-![One](/images/MyArt/Badges/BadgeOne.png)
-![Two](/images/MyArt/Badges/BadgeTwo.png)
-![Three](/images/MyArt/Badges/BadgeThree.png)
-![Four](/images/MyArt/Badges/BadgeFour.png)
-![Five](/images/MyArt/Badges/BadgeFive.png)
+![One](/examples/images/MyArt/Badges/BadgeOne.png)
+![Two](/examples/images/MyArt/Badges/BadgeTwo.png)
+![Three](/examples/images/MyArt/Badges/BadgeThree.png)
+![Four](/examples/images/MyArt/Badges/BadgeFour.png)
+![Five](/examples/images/MyArt/Badges/BadgeFive.png)

@@ -1,70 +1,82 @@
-<h1> Portfolio </h1>
+# 🎨 Portfolio
 
-****
+Welcome to my personal portfolio!  
+Here you'll find a mix of school projects, hobby creations, and artistic experiments. This space grows as I learn and build more.
 
-This is a portfolio for both school and hobby related projects.
+---
 
-****
+## 📌 Overview
 
-## Description
+This is a curated collection of my programming and design projects. Most of the projects were created for school assignments, though you'll find personal hobby work here too.
 
-****
+🛠️ Tech stack includes: **Java**, **JavaScript**, **React**, **Kotlin**, **Swift**, and more.
 
-This portfolio is a collection of my projects. It is a work in progress and will be updated as I make more projects. 
-The projects are mostly school projects, but there will be some hobby projects in the future. 
-The projects are made with different programming languages, such as Java and JavaScript.
+🖼️ I also share **artwork**, **animations**, and **UI mockups** — blending code and creativity.
 
-I will also upload images of the projects and maybe some of the artwork I have made.
+---
 
-****
+## 🚀 Projects
 
-## Links to my projects
+### 🌐 JavaScript
 
-****
-### JavaScript
+- 🔗 [HTML Application](https://github.com/maisajulianna/web7/tree/2.0)  
+  A full-stack web app using **JavaScript**, **React**, **Node.js**, and **MongoDB**. Built with a team of fellow students for a school project — not fully completed due to time constraints.
 
-- [HTML application](https://github.com/maisajulianna/web7/tree/2.0)
-  - This project was made with the power of three programmers: me and my fellow students. It is a fullstack HTML application,
-  that uses JavaScript, React, Node.js and MongoDB. It was made for a school project and unfortunately, there wasn't enough time to finish it.
+- 🔗 [JavaScript Exercises](https://github.com/aliisaro/WEEK7WednesdayPairProgramming/tree/task5)  
+  Pair-programmed tasks for practicing **API server** interactions.
 
-- [JavaScript exercises](https://github.com/aliisaro/WEEK7WednesdayPairProgramming/tree/task5)
-  - These exercises were made in pairs, with my fellow student. They are simple JavaScript exercises for practicing the usage of api servers.
+- 📁 UI Mockups  
+  Find PNG mockups of simple interfaces built with JavaScript in the `examples/` directory.
 
-- In directory [examples] there is a png collection of simple user interface designs made with JavaScript. 
+---
 
-### React 
+### ⚛️ React
 
-- [React exercise 1](https://github.com/mangomansikka/firstreact1)
-- [React exercise 2](https://github.com/mangomansikka/firstreact2)
-- [React exercise 3](https://github.com/mangomansikka/firstreact3)
-- [React exercise 4](https://github.com/mangomansikka/secondreact1)
-- [React exercise 5](https://github.com/mangomansikka/secondreact2)
-  - These exercises were made for practicing React. They are simple exercises that were made for a school project.
+- 📦 [React Exercise 1](https://github.com/mangomansikka/firstreact1)
+- 📦 [React Exercise 2](https://github.com/mangomansikka/firstreact2)
+- 📦 [React Exercise 3](https://github.com/mangomansikka/firstreact3)
+- 📦 [React Exercise 4](https://github.com/mangomansikka/secondreact1)
+- 📦 [React Exercise 5](https://github.com/mangomansikka/secondreact2)
 
-### Java
+These exercises helped me practice the basics of React as part of a school curriculum.
 
-- [Design patterns](https://github.com/mangomansikka/Suunnittelumallit24S)
-  - This project was made for practicing design patterns in Java. It was made for a school project.
-  It consists simple backend programs that use different design patterns.
+---
 
-- [Fuel consumption](https://github.com/mangomansikka/FuelConsumption)
-  - This is a simple fullstack Java application that calculates fuel consumption. It was made for a school project.
+### ☕ Java
 
-- [Currency converter](https://github.com/mangomansikka/CurrencyConverter/tree/main/src/main)
-  - This is a simple fullstack Java application that converts currency. It was made for a school project.
- 
-### Kotlin
-- [Basics](https://github.com/mangomansikka/KotlinSpring25/tree/main/basics/src/main/kotlin)
-  - A collection of very simple practices I have done with Kotlin.
-- [Study register](https://github.com/mangomansikka/KotlinSpring25/tree/main/StudyRegister/src/main/kotlin)
-  - A simple back-end study register with tests 
+- 🔗 [Design Patterns](https://github.com/mangomansikka/Suunnittelumallit24S)  
+  Backend implementations demonstrating common **design patterns** in Java.
 
- ### Swift
- - [Swift practices](https://github.com/mangomansikka/SwiftPractices)
-  - This is a collection of practices I have done with Swift
+- 🔗 [Fuel Consumption Calculator](https://github.com/mangomansikka/FuelConsumption)  
+  A full-stack app that calculates **fuel consumption**.
 
-### Artwork
-- In directory examples there is a collection of my artwork.
-- MyAnimations.md contains a collection of animations
-- BadgesIcons.md contains a collection of badges and icons
-- MyArtworks.md contains a collection of other artwork
+- 🔗 [Currency Converter](https://github.com/mangomansikka/CurrencyConverter/tree/main/src/main)  
+  A simple full-stack **Java currency converter**.
+
+---
+
+### 🐘 Kotlin
+
+- 🔗 [Kotlin Basics](https://github.com/mangomansikka/KotlinSpring25/tree/main/basics/src/main/kotlin)  
+  Small Kotlin practices and syntax exercises.
+
+- 🔗 [Study Register](https://github.com/mangomansikka/KotlinSpring25/tree/main/StudyRegister/src/main/kotlin)  
+  A backend app to manage a **study register**, with tests.
+
+---
+
+### 🍎 Swift
+
+- 🔗 [Swift Practices](https://github.com/mangomansikka/SwiftPractices)  
+  Basic exercises and mini-projects created to explore Swift.
+
+---
+
+## 🎨 Artwork & Design
+
+Explore my creative side:
+
+- 🖼️ Artwork previews: `examples/images/MyArt/`
+- 📄 [MyAnimations.md](examples/MyAnimations.md) – A collection of my **animations**
+- 📄 [BadgesIcons.md](examples/BadgesIcons.md) – My custom **badges and icons**
+- 📄 [MyArtworks.md](examples/MyArtworks.md) – Various digital **artworks and sketches**

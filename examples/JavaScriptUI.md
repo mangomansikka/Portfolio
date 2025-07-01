@@ -2,8 +2,8 @@
 
 ****
 
-![About us page](/images/UIdesign/AboutUs.png)
+![About us page](/examples/images/UIdesign/AboutUs.png)
 
-![Our services page](/images/UIdesign/OurServices.png)
+![Our services page](/examples/images/UIdesign/OurServices.png)
 
-![Contact us page](/images/UIdesign/Registration.png)
+![Contact us page](/examples/images/UIdesign/Registration.png)
