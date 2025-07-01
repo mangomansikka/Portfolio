@@ -80,3 +80,10 @@ Explore my creative side:
 - 📄 [MyAnimations.md](examples/MyAnimations.md) – A collection of my **animations**
 - 📄 [BadgesIcons.md](examples/BadgesIcons.md) – My custom **badges and icons**
 - 📄 [MyArtworks.md](examples/MyArtworks.md) – Various **artworks and sketches**
+
+## 🎹 Other Creative Interests
+
+In addition to programming and digital art, I enjoy playing piano.  
+Here's a 2-minute clip of one of my favorites to play:
+
+[🎵 Watch on YouTube](https://youtu.be/6qXnztAE9DE?si=7cY5xd1E5311o2IF)
