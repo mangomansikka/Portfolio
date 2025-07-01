@@ -79,4 +79,4 @@ Explore my creative side:
 - 🖼️ Artwork previews: `examples/images/MyArt/`
 - 📄 [MyAnimations.md](examples/MyAnimations.md) – A collection of my **animations**
 - 📄 [BadgesIcons.md](examples/BadgesIcons.md) – My custom **badges and icons**
-- 📄 [MyArtworks.md](examples/MyArtworks.md) – Various digital **artworks and sketches**
+- 📄 [MyArtworks.md](examples/MyArtworks.md) – Various **artworks and sketches**
