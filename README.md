@@ -72,6 +72,13 @@ These exercises helped me practice the basics of React as part of a school curri
 
 ---
 
+### 🦀 Rust
+
+- 🔗 [QR code](https://github.com/mangomansikka/qr-code-generation-cli)  
+  Basic command line QR code generator built with Rust.
+
+---
+
 ## 🎨 Artwork & Design
 
 Explore my creative side:
