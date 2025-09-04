@@ -17,6 +17,19 @@ This is a curated collection of my programming and design projects. Most of the 
 
 ## 🚀 Projects
 
+### 🛠️ A collection of bigger collaborative projects
+- 🔗 [FoodieDiary / Mar 2025 - May 2025](https://github.com/GeorgeChirikov/FoodieDiary)
+
+  Foodie Diary is an Android application that allows users to scan EAN barcodes of food products, store them locally, 
+  and manage favorites or daily food logs. It provides a simple and efficient interface for tracking what users consume.
+
+- 🔗 [Language Learning App / Sep 2024 - Dec 2024](https://github.com/aliisaro/QuadLingo-Language-Learning-App)
+
+  Quadlingo is a fullstack app for learning languages. It is programmed using Java, JavaFX and CSS.
+  The app is designed to help English, French, Chinese and Arabian speakers learn the basics of Finnish. 
+  The app has a variety of features such as: user profile and progress, flashcards, quizzes and achievements. 
+  With the help of these features, the user can learn Finnish in a fun and interactive way.
+
 ### 🌐 JavaScript
 
 - 🔗 [HTML Application](https://github.com/maisajulianna/web7/tree/2.0)  
