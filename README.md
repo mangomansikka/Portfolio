@@ -15,7 +15,7 @@ This is a curated collection of my programming and design projects. Most of the 
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects and small tasks
 
 ### 🛠️ A collection of bigger collaborative projects
 - 🔗 [FoodieDiary / Mar 2025 - May 2025](https://github.com/GeorgeChirikov/FoodieDiary)
@@ -98,6 +98,9 @@ These exercises helped me practice the basics of React as part of a school curri
 
 - 🔗 [QR code](https://github.com/mangomansikka/qr-code-generation-cli)  
   Basic command line QR code generator built with Rust.
+- 🔗 [Kanji search](https://github.com/mangomansikka/Search-Kanji-Widget)
+
+  A simple web based kanji search widget built with Rust and WebAssembly.
 
 ---
 
