@@ -9,7 +9,7 @@ Here you'll find a mix of school projects, hobby creations, and artistic experim
 
 This is a curated collection of my programming and design projects. Most of the projects were created for school assignments, though you'll find personal hobby work here too.
 
-🛠️ Tech stack includes: **Java**, **JavaScript**, **React**, **Kotlin**, **Swift**, and more.
+🛠️ Tech stack includes: **Python**, **Java**, **JavaScript**, **React**, **Kotlin** and **Swift**.
 
 🖼️ I also share **artwork**, **animations**, and **UI mockups** — blending code and creativity.
 
@@ -29,6 +29,15 @@ This is a curated collection of my programming and design projects. Most of the 
   The app is designed to help English, French, Chinese and Arabian speakers learn the basics of Finnish. 
   The app has a variety of features such as: user profile and progress, flashcards, quizzes and achievements. 
   With the help of these features, the user can learn Finnish in a fun and interactive way.
+
+---
+
+### 🐍 Python
+
+- 🔗 [Lentopoly minigame](https://github.com/mangomansikka/Lentopoly)
+  A simple backend terminal based **Python** game where players buy and sell airports and earn revenue.
+
+---
 
 ### 🌐 JavaScript
 
